@@ -1,0 +1,1 @@
+hl.exe -game hlrally -num_edicts 2048 -console

@@ -1,0 +1,15 @@
+gamedir hlrally
+game "Half-Life Rally Beta 1.0 - Setup"
+url_info "http://www.hlrally.net"
+url_dl ""
+version "1.0"
+size "110000000"
+svonly "0"
+cldll "1"
+hlversion "1110"
+
+type "multiplayer_only"
+mpentity "info_player_start"
+gamedll "dlls\hlrally.dll"
+gamedll_linux "dlls/hlr_i386.so"
+trainmap "gt_speedtest"
