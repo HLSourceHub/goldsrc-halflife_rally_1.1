@@ -1,11 +1,12 @@
 rc_mistress - "Harsh Mistress"
 ==============================
 Half-Life Rally, Rally Circuit
+Version 1.1
 
 ==
 Track by Andrew Weldon
-aweldon@planethalflife.com
-http://www.planethalflife.com/awmaps/
+andrew@kungfusquirrel.net
+http://www.kungfusquirrel.net
 http://www.hl-nightwatch.net/
 
 ==
@@ -14,4 +15,4 @@ Matt "Chalupamonk" Michelson - Sky
 Jon "Merkaba" Chapman - Street Lamp Model.
 
 ==
-June 2003
+May 2004
